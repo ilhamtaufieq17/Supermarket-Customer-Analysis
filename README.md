@@ -1,6 +1,4 @@
-﻿﻿<img src="./docs/6b32bc16d757ed3abd92e3896dab5451f482ba3d4e8e98266de3104ba6bfac38.jpg" width="300" height="200" />
-
-# Supermarket Customer Analysis
+﻿﻿# Supermarket Customer Analysis
 
 This project is part of the capstone projects from the Data Science and Machine Learning course at Purwadhika Digital Technology School. The notebook demonstrates the implementation of various data processing and machine learning techniques to analyze customer data from a supermarket.
 
@@ -27,7 +25,7 @@ The analysis covers customer data from July 2012 to June 2014, focusing on purch
 
 To get this project, you can clone it by running the following code:
 
-    git clone git@github.com:ikhza25/Capstone-Project-satu.git
+    git clone git@github.com:ilhamtaufieq17/Supermarket-Customer-Analysis.git
 
 ## Project Organization
 
@@ -44,25 +42,13 @@ The directory structure of project looks like this:
     └── requirements.txt            <- The requirements file for reproducing the analysis environment, e.g.
                                        generated with `pip freeze > requirements.txt`
                                        
-
-## Tableau Visualization
-
-
-<img src="./docs/pngwing.com.png" alt="Data Icon" style="width: 200px; height: auto;"/>
-
-
-For interactive visualizations and deeper insights, you can explore the Tableau dashboard here:
-
-<a href="https://public.tableau.com/views/SupermarketCustomerDashboard_17227984570880/SupermarketCustomerDashboardMenu?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">Tableau Dashboard</a>
-
-
 ## Contribute
 
 If you'd like to contribute, feel free to contact me here:
 
-<a href="https://www.linkedin.com/in/ikhzasyafamuis/" target="_blank">
+<a href="https://www.linkedin.com/in/ilham-taufieq-julfianto/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
   </a>
-  <a href="mailto:ikhza25@gmail.com" target="_blank">
+  <a href="mailto:taufieq17@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg"  width="52" height="40" alt="gmail logo"/>
   </a>
