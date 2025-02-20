@@ -1,5 +1,3 @@
-﻿﻿# Supermarket Customer Analysis
-
 This project is part of the capstone projects from the Data Science and Machine Learning course at Purwadhika Digital Technology School. The notebook demonstrates the implementation of various data processing and machine learning techniques to analyze customer data from a supermarket.
 
 ## Description
